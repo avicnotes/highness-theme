@@ -3,7 +3,7 @@ title: Highness
 tagline: New Jekyll Theme
 url: https://devpractical.com
 paginate: 2
-baseurl: /
+baseurl: ""
 permalink: pretty
 
 # Gems
