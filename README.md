@@ -1,10 +1,14 @@
-# Poole
-
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
+# Highness Jekyll Theme
 
 -----
 
-Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.
+Based on Poole: the butler for [Jekyll](http://jekyllrb.com), the static site generator. 
+
+[Demo Highness Theme](https://highness-jekyll.netlify.app/)
+
+It's designed and developed by [@_ndugu](https://mobile.twitter.com/_ndugu) to provide a clear and concise foundational theme for a Jekyll wesite.
+
+You get a full vanilla Jekyll install with example templates, pages, posts and styles.
 
 ![Poole](https://f.cloud.github.com/assets/98681/1834359/71ae4048-73db-11e3-9a3c-df38eb170537.png)
 
