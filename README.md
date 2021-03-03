@@ -10,7 +10,10 @@ It's designed and developed by [@_ndugu](https://mobile.twitter.com/_ndugu) to p
 
 You get a full vanilla Jekyll install with example templates, pages, posts and styles.
 
-![Poole](https://f.cloud.github.com/assets/98681/1834359/71ae4048-73db-11e3-9a3c-df38eb170537.png)
+![Highness Theme](https://avicnotes.github.io/html-css-projects/article-screenshots/screenshot-highness-theme.png)
+
+
+![Poole-Original](https://f.cloud.github.com/assets/98681/1834359/71ae4048-73db-11e3-9a3c-df38eb170537.png)
 
 See Poole in action with [the demo site](https://demo.getpoole.com).
 
