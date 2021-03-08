@@ -36,6 +36,45 @@
       </section>
   </main>
   <footer>
+    
+    <script src="https://unpkg.com/mithril/mithril.js"></script>
+    <script>
+    var root = document.body
+
+    // your code goes here!
+
+var root = document.body
+var count = 0 // added a variable
+
+var root = document.body
+var count = 0
+
+var Hello = {
+  view: function() {
+    return m("iframe", {
+        class: "title", src:"https://devpractical.substack.com/embed", width:"400", height:"100", frameborder:"0", scrolling:"no",
+      }, "My first app") 
+  }
+}
+
+var Splash = {
+  view: function() {
+    return m("a", {
+      href: "#!/hello"
+    }, "Subscribe")
+  }
+}
+
+m.route(root, "/", {
+  "/": Splash,
+  "/hello": Hello,
+})
+
+
+
+    </script>
+    
+    
       <nav>
             <a href="#">
               Articles
