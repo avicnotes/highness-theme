@@ -117,9 +117,13 @@ Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo r
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
+![placeholder](/assets/img/pexels-pixabay-280222.jpg)
+
 ![placeholder](/assets/img/pexels-pixabay-257360.jpg)
-![placeholder](/assets/img/pexels-pixabay-257360.jpg)
-![placeholder](/assets/img/pexels-pixabay-257360.jpg)
+
+![placeholder](/assets/img/pexels-leigh-patrick-298246.jpg)
+
+![placeholder](/assets/img/pexels-valeria-boltneva-827518.jpg)
 
 ### Tables
 
