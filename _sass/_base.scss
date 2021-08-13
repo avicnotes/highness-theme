@@ -32,7 +32,8 @@ a {
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
-    color: var(--link-hover-color);
+     border-bottom-color: var(--link-hover-color);
+//     color: var(--link-hover-color);
   }
 
   strong {
