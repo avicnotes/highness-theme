@@ -17,14 +17,23 @@ body {
       -ms-text-size-adjust: 100%;
 }
 
+@media (min-width: 38em) {
+  body {
+    font-size: 20px;
+  }
+}
+
 // No `:visited` state is required by default (browsers will use `a`)
 a {
   color: var(--link-color);
+  text-decoration: none;
+  border-bottom: 3px solid #a5d8ff;
 
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
-    color: var(--link-hover-color);
+     border-bottom-color: var(--link-hover-color);
+//     color: var(--link-hover-color);
   }
 
   strong {
