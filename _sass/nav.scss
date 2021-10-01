@@ -19,11 +19,15 @@ header a:hover, a:focus {
 
 .brand a {
   color: #343a40;
+  display: flex;
+}
+.brand a span {
+  padding-left: 10px;
+}
+.brand img {
+  height: 60px;
 }
 
-.brand img {
-  height:60px;
-}
 
 nav {
   display:flex;
