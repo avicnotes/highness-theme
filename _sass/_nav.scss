@@ -20,16 +20,18 @@ header a:hover, a:focus {
 .brand a {
   color: #343a40;
   display: flex;
+  align-items: center;
 }
 .brand a span {
   padding-left: 10px;
   padding-top: 0.8em;
 }
 .brand img {
-  height: 60px;
+  width: 60px;
 }
 
 
 nav {
   display:flex;
+  align-items: center;
 }
