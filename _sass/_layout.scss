@@ -49,9 +49,15 @@ header, main, footer {
 
 /* Single column with 900px maximum width layout */
 .blog-post {
-  max-width: 900px;  
+  max-width: 900px;
+  margin-right: auto;
+  margin-left: auto;
 }
-
+.related {
+  max-width: 900px;
+  margin-right: auto;
+  margin-left: auto;
+}
 /* End of single column with 900px maximum width layout */
 
 footer {
