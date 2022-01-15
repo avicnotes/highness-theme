@@ -47,6 +47,13 @@ header, main, footer {
 
 /* End of sidebar layout */
 
+/* Single column with 900px maximum width layout */
+.blog-post {
+  max-width: 900px;  
+}
+
+/* End of single column with 900px maximum width layout */
+
 footer {
   text-align: center;
   padding-bottom:2em;
